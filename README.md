@@ -15,5 +15,5 @@ I'm a self-taught Software Engineer. I'm passionate about sharing knowledge, doc
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Susboi20&show_icons=true&include_all_commits=true&hide_border=true" alt="Ahmad's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susboi20&langs_count=8&layout=compact&hide_border=true" alt="Ahmad's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Zahradeen-Tahir&show_icons=true&include_all_commits=true&hide_border=true" alt="Ahmad's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Zahradeen-Tahir&langs_count=8&layout=compact&hide_border=true" alt="Ahmad's GitHub stats" /> |
 | ------------- | ------------- |
