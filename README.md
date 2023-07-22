@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-Zahradeen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Susboi20)](https://www.linkedin.com/in/Susboi20) [![Twitter Badge](https://img.shields.io/badge/zahradeen-green?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zahradeeeen?s=11&t=MWzccZS0twtTSj2ke4a67w)](https://twitter.com/zahradeeeen?s=11&t=MWzccZS0twtTSj2ke4a67w) [![Website Badge](https://img.shields.io/badge/-Zahradeen.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-hp31iq5qx-aztahir20-gmailcom.vercel.app/)](https://portfolio-hp31iq5qx-aztahir20-gmailcom.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Zahradeen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/zahradeeeen)](https://linkedin.com/in/zahradeeeen) [![Twitter Badge](https://img.shields.io/badge/zahradeen-green?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Zahradeeeen?s=11&t=MWzccZS0twtTSj2ke4a67w)](https://twitter.com/zahradeeeen?s=11&t=MWzccZS0twtTSj2ke4a67w) [![Website Badge](https://img.shields.io/badge/-Zahradeen.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://new-portfolio-phi-rouge.vercel.app/)](https://new-portfolio-phi-rouge.vercel.app/)
 
 I'm a self-taught Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering, economics, and others.
 
