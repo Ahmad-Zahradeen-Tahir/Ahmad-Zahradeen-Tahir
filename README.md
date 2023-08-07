@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-phi-rouge.vercel.app/](https://new-portfolio-phi-rouge.vercel.app/)
 
-- 💬 Ask me about **React, Typescript & Next.js**
+- 💬 Ask me about **React & Typescript**
 
 - 📫 How to reach me **aztahir20@gmail.com**
 
