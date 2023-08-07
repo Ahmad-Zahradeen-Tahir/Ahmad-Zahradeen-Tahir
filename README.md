@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-phi-rouge.vercel.app/](https://new-portfolio-phi-rouge.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://new-portfolio-phi-rouge.vercel.app/)
 
 - 💬 Ask me about **React & Typescript**
 
 - 📫 How to reach me **aztahir20@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/c280fk3ptw](https://flowcv.com/resume/c280fk3ptw)
+- 📄 Know about my experiences at [my resume](https://flowcv.com/resume/c280fk3ptw)
 
 - ⚡ Fun fact **I love one piece**
 
