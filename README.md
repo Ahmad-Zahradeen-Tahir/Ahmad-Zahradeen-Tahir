@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/zahradeeeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahradeeeen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zahradeeeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahradeeeen" height="30" width="40" /></a>
-<a href="https://fb.com/zahradeen.tahir.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahradeen.tahir.1" height="30" width="40" /></a>
 <a href="https://instagram.com/zahradeen.tah1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahradeen.tah1r" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/susboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="susboi" height="30" width="40" /></a>
 </p>
